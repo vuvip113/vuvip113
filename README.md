@@ -2,11 +2,6 @@
 <h3 align="center">A passionate developer from Viet Nam. Love to learn and coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvip113&label=Profile%20views&color=0e75b6&style=flat" alt="vuvip113" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuvip113" alt="vuvip113" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/concubebong2" target="blank"><img src="https://img.shields.io/twitter/follow/concubebong2?logo=twitter&style=for-the-badge" alt="concubebong2" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/vuvip113?tab=repositories](https://github.com/vuvip113?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.facebook.com/Vanitas0206/](https://www.facebook.com/Vanitas0206/)
