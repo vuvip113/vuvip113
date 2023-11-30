@@ -13,9 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/concubebong2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="concubebong2" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vanitas0206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vanitas0206/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vanitas020666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vanitas020666/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclcirv1j237app7c_5xbvbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclcirv1j237app7c_5xbvbq" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vanitas0206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vanitas0206/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vanitas020666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vanitas020666/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uclcirv1j237app7c_5xbvbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclcirv1j237app7c_5xbvbq" height="30" width="40" /></a>
 <a href="https://discord.gg/.vanitas666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".vanitas666" height="30" width="40" /></a>
 </p>
 
