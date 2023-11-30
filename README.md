@@ -1,4 +1,4 @@
-[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://firebasestorage.googleapis.com/v0/b/github-c3fa6.appspot.com/o/6604090.gif?alt=media&token=6f205408-10c6-4f31-9f2f-beca03268db4))](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/github-c3fa6.appspot.com/o/6604090.gif?alt=media&token=6f205408-10c6-4f31-9f2f-beca03268db4)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vanitas (Vu Tran)</h1>
 <h3 align="center">A passionate developer from Viet Nam. Love to learn and coding</h3>
