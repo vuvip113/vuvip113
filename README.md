@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Viet Nam. Love to learn and coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvip113&label=Profile%20views&color=0e75b6&style=flat" alt="vuvip113" /> </p>
-- 👨‍💻 All of my projects are available at [https://github.com/vuvip113?tab=repositories](https://github.com/vuvip113?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/vuvip113?tab=repositories
 
 - 📝 I regularly write articles on [https://www.facebook.com/Vanitas0206/](https://www.facebook.com/Vanitas0206/)
 
