@@ -30,8 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vuvip113&show_icons=true&locale=en" alt="vuvip113" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vuvip113&" alt="vuvip113" /></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
